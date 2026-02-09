@@ -1,9 +1,6 @@
 ---
-title: Temp Website
-draft: false
-tags:
-  - test-tag
+title: Welcome to Quartz
 ---
- 
-This is the homepage of a temporary website.
-[[a note]]
+
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
