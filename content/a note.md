@@ -1,6 +1,5 @@
 ---
 title: A Note
-draft: false
 tags:
   - note
 ---
